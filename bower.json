@@ -6,7 +6,7 @@
     "main": "dist/ByteBufferAB.js",
     "keywords": ["net", "array", "buffer", "arraybuffer", "typed array", "bytebuffer", "json", "websocket", "webrtc"],
     "dependencies": {
-        "long": "latest"
+        "long": "d0rc/long-brunch"
     },
     "license": "Apache-2.0"
 }
